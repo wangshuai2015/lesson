@@ -17,3 +17,4 @@ var triangle = {
     	return true;
     }
 };
+
